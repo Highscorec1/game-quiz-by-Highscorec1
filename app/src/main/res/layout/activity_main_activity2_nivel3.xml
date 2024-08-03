@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".mapas.facil.MainActivity2_Nivel2">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="69dp"
+        android:background="@color/browser_actions_text_color"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/checkBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:text="Pregunta1"
+                android:textColor="@color/white"
+
+                android:textSize="24dp" />
+
+            <RadioButton
+                android:id="@+id/checkBox2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:text="Pregunta2"
+                android:textColor="@color/white"
+                android:textSize="24dp" />
+
+            <RadioButton
+                android:id="@+id/checkBox3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:text="Pregunta3"
+                android:textColor="@color/white"
+                android:textSize="24dp" />
+
+            <RadioButton
+                android:id="@+id/checkBox4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:text="Pregunta4"
+                android:textColor="@color/white"
+                android:textSize="24dp" />
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewPregunta"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="309dp"
+        android:background="@color/browser_actions_text_color"
+        android:gravity="center"
+        android:text="@string/et_preguntacondicional"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewPregunta"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="79dp"
+        android:layout_marginBottom="46dp"
+        app:srcCompat="@drawable/kisspng_god_of_war_iii_god_of_war_ghost_of_sparta_dantes_kratos_png_transparent_image_5a74f658c43d01_9733239515176146808038" />
+
+    <TextView
+        android:id="@+id/textView_nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="-54dp"
+        android:fontFamily="@font/brus"
+        android:text="@string/jugador_nombre"
+        android:textColor="@color/white"
+        android:textSize="21sp" />
+
+    <TextView
+        android:id="@+id/textView_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewPregunta"
+        android:layout_below="@+id/imageView1"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="-40dp"
+        android:layout_marginEnd="-140dp"
+        android:layout_marginBottom="9dp"
+        android:layout_toStartOf="@+id/imageView1"
+        android:text="@string/total_score"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/textView_Corazon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView_vidas"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-110dp"
+        android:layout_marginTop="-5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="60dp"
+        android:layout_toEndOf="@+id/imageView1"
+        android:fontFamily="@font/brus"
+        android:text="@string/et_vida"
+        android:textColor="@color/white"
+        android:textSize="21dp" />
+
+    <ImageView
+        android:id="@+id/imageView_vidas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-122dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="-120dp"
+        android:layout_toEndOf="@+id/imageView1"
+        android:contentDescription="@string/app_name"
+        app:srcCompat="@drawable/photoroom__1___1_" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:onClick="Comprobar"
+        android:text="@string/confirmar"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>

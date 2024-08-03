@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26875" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/drawable/fondostest.xml" value="0.26875" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout-land/activity_main_activity2_nivel1.xml" value="0.2" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_bonnuslive.xml" value="0.176" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_bonus_live_borrar.xml" value="0.19581017528858485" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_bonus_test.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main2.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main22.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_bonnus.xml" value="0.234375" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_menuvidas.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel05.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel1.xml" value="0.2" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel10.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel11.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel12.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel13.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel14.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel15.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel2.xml" value="0.176" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel20.xml" value="0.20735356990166737" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel3.xml" value="0.4" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel30.xml" value="0.4296875" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel4.xml" value="0.20735356990166737" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel40.xml" value="0.20735356990166737" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel47.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel5.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_nivel51.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_main_activity2_ventana_para_back.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_map1.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_map1normal.xml" value="0.2526041666666667" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/layout/activity_suportheapp.xml" value="0.23854166666666668" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.258" />
+        <entry key="..\:/Datos para la aplicacion/Gametest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1235" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
